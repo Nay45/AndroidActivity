@@ -12,15 +12,6 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Volume"
-        android:textSize="30sp"
-        android:paddingBottom="10dp"
-        android:gravity="center"
-        android:textStyle="bold"/>
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:text="@string/length"/>
     
     <EditText
